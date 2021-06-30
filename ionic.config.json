@@ -1,0 +1,7 @@
+{
+  "name": "tdr",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
